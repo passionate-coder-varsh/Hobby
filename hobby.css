@@ -1,0 +1,102 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    padding-left: 22%;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 60px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  .hobbies{
+      text-align: center;
+      background: -webkit-linear-gradient(rgb(206, 33, 177), rgb(55, 139, 218));
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+  }
+  .hobbypara{
+      color: #000;
+      text-align: justify;
+    padding-left: 780px;
+    line-height: 2rem;
+  }
+  img{
+      float: left;
+  }
+  .hobbypara1{
+    color: #000;
+    text-align: center;
+    margin-left: 150px;
+  line-height: 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.musicpara{
+    width:100%;
+}
+.musicpara img{
+    float: right;
+}
+.musicdescription{
+    color: #000;
+    text-align: left;
+  line-height: 2rem;
+}
+.musicpara1{
+    color: #000;
+    text-align: center;
+  line-height: 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gardening video{
+    margin-top: -90px;
+    float: left;
+}
+span{
+    color: blue;
+}
+.gardendescription{
+    color: #000;
+    text-align: left;
+  line-height: 2rem;
+  padding-top: 0%;
+  padding-left: 780px;
+}
+.gardenpara{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 0px;
+    font-size: 40px;
+}
+.gardendescription1{
+    color: #000;
+    text-align: left;
+  line-height: 2rem;
+  padding-left: 780px;
+}
+.cooking img{
+    padding:25px;
+}
+.cookingdesc{
+    color: #000;
+    text-align: left;
+  line-height: 2rem;
+  padding-left: 15px;
+}
