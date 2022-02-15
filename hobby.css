@@ -29,7 +29,7 @@
   .hobbies{
       text-align: center;
       background: -webkit-linear-gradient(rgb(206, 33, 177), rgb(55, 139, 218));
-      background-clip: text;
+      -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
   }
   .hobbypara{
